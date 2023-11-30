@@ -1,0 +1,133 @@
+<mxfile host="app.diagrams.net" modified="2023-09-21T12:40:03.109Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.31" etag="IeQ2YRz8PBHA0dLfSHl9" version="21.8.0" type="device">
+  <diagram name="Страница — 1" id="PEPpE_NMutsoEQ26WqCB">
+    <mxGraphModel dx="1821" dy="1728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="N-Dls4yeEjoVgJZSH4MH-10" value="Клиент" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-Dls4yeEjoVgJZSH4MH-13" value="Туроператор" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="230" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-Dls4yeEjoVgJZSH4MH-14" value="Турагент" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-342.5" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-Dls4yeEjoVgJZSH4MH-92" value="Формирование тура" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="350" width="107.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="N-Dls4yeEjoVgJZSH4MH-93" value="Добавление тура" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="410" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="N-Dls4yeEjoVgJZSH4MH-94" value="Прогнозирование продаж" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="330" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="N-Dls4yeEjoVgJZSH4MH-95" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-160" y="280" as="sourcePoint" />
+            <mxPoint x="-90" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-Dls4yeEjoVgJZSH4MH-96" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-210" y="320" as="sourcePoint" />
+            <mxPoint x="-210" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-Dls4yeEjoVgJZSH4MH-97" value="" style="endArrow=classic;html=1;rounded=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-250" y="270" as="sourcePoint" />
+            <mxPoint x="-330" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-Dls4yeEjoVgJZSH4MH-98" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-430" y="350" as="sourcePoint" />
+            <mxPoint x="-470" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-Dls4yeEjoVgJZSH4MH-99" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="130" as="sourcePoint" />
+            <mxPoint x="140" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-Dls4yeEjoVgJZSH4MH-100" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="170" as="sourcePoint" />
+            <mxPoint x="190" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-Dls4yeEjoVgJZSH4MH-101" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="220" as="sourcePoint" />
+            <mxPoint x="170" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-Dls4yeEjoVgJZSH4MH-102" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="-50" as="sourcePoint" />
+            <mxPoint x="690" y="-100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-Dls4yeEjoVgJZSH4MH-103" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="120" as="sourcePoint" />
+            <mxPoint x="30" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-Dls4yeEjoVgJZSH4MH-104" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-380" y="120" as="sourcePoint" />
+            <mxPoint x="-440" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-Dls4yeEjoVgJZSH4MH-105" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-320" y="90" as="sourcePoint" />
+            <mxPoint x="-320" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-Dls4yeEjoVgJZSH4MH-114" value="Бронь отеля" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="270" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="N-Dls4yeEjoVgJZSH4MH-115" value="Бронь билетов" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="340" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="N-Dls4yeEjoVgJZSH4MH-116" value="Назначение цены" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="410" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="N-Dls4yeEjoVgJZSH4MH-117" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-440" y="380" as="sourcePoint" />
+            <mxPoint x="-470" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-Dls4yeEjoVgJZSH4MH-118" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-430" y="420" as="sourcePoint" />
+            <mxPoint x="-470" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-Dls4yeEjoVgJZSH4MH-126" value="Реализация тура" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="-70" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-Dls4yeEjoVgJZSH4MH-127" value="Оформление договора" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="30" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-Dls4yeEjoVgJZSH4MH-128" value="оставить пожелания на сайте" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="220" width="97.5" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="N-Dls4yeEjoVgJZSH4MH-129" value="Бронирование тура" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="-30" width="97.5" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="N-Dls4yeEjoVgJZSH4MH-130" value="Просмотр информации о туре" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-30" width="97.5" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="N-Dls4yeEjoVgJZSH4MH-131" value="поиск тура" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="100" width="97.5" height="65" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

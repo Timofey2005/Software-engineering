@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" modified="2023-09-21T12:40:20.634Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.31" etag="HS_BhWNWdlRlqtDSHaXv" version="21.8.0" type="device">
+  <diagram name="Страница — 1" id="X3a8H76dhSuFDee6MPe0">
+    <mxGraphModel dx="994" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="b_etLwHibZnR5pgcukXq-1" value="Кладовщик" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="401" y="595" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b_etLwHibZnR5pgcukXq-2" value="Клиент" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="250" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b_etLwHibZnR5pgcukXq-3" value="Сотрудник" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="576" y="220" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b_etLwHibZnR5pgcukXq-9" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="410" as="sourcePoint" />
+            <mxPoint x="290" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b_etLwHibZnR5pgcukXq-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="471" y="625" as="sourcePoint" />
+            <mxPoint x="531" y="605" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b_etLwHibZnR5pgcukXq-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="371" y="625" as="sourcePoint" />
+            <mxPoint x="311" y="595" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b_etLwHibZnR5pgcukXq-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="340" as="sourcePoint" />
+            <mxPoint x="150" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b_etLwHibZnR5pgcukXq-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="260" as="sourcePoint" />
+            <mxPoint x="150" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b_etLwHibZnR5pgcukXq-15" value="упаковать заказ согласно заказам" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="516" y="535" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b_etLwHibZnR5pgcukXq-16" value="Выдать заказ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="515" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b_etLwHibZnR5pgcukXq-17" value="Получить ПК" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="400" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b_etLwHibZnR5pgcukXq-18" value="Заказать ПК" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="150" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b_etLwHibZnR5pgcukXq-20" value="(Опционально)&lt;br&gt;заплатить" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="290" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b_etLwHibZnR5pgcukXq-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="330" as="sourcePoint" />
+            <mxPoint x="610" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b_etLwHibZnR5pgcukXq-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="240" as="sourcePoint" />
+            <mxPoint x="730" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b_etLwHibZnR5pgcukXq-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="210" as="sourcePoint" />
+            <mxPoint x="500" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b_etLwHibZnR5pgcukXq-26" value="Собрать компьютеры" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="576" y="430" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b_etLwHibZnR5pgcukXq-27" value="Принять заказ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="401" y="100" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b_etLwHibZnR5pgcukXq-28" value="Отсортировать заказы" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="120" width="90" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
