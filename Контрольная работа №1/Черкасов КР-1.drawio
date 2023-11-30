@@ -1,0 +1,101 @@
+<mxfile host="app.diagrams.net" modified="2023-11-02T09:36:31.780Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="ebKy5rf-1B9_nYUEWlk-" version="22.0.8" type="google">
+  <diagram name="Страница — 1" id="rdCp2PVPdeFDpmG8qEgE">
+    <mxGraphModel dx="1002" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GYt1mOVmX_JPP7CXYPMm-1" value="Зарядное устройство" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="330" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GYt1mOVmX_JPP7CXYPMm-2" value="Смартфон" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GYt1mOVmX_JPP7CXYPMm-3" value="Пользователь" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GYt1mOVmX_JPP7CXYPMm-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="190" as="sourcePoint" />
+            <mxPoint x="190" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GYt1mOVmX_JPP7CXYPMm-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="304.5" y="155" as="sourcePoint" />
+            <mxPoint x="305" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GYt1mOVmX_JPP7CXYPMm-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="260" as="sourcePoint" />
+            <mxPoint x="180" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GYt1mOVmX_JPP7CXYPMm-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="430" as="sourcePoint" />
+            <mxPoint x="440" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GYt1mOVmX_JPP7CXYPMm-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="150" as="sourcePoint" />
+            <mxPoint x="620" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GYt1mOVmX_JPP7CXYPMm-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="210" as="sourcePoint" />
+            <mxPoint x="670" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GYt1mOVmX_JPP7CXYPMm-17" value="Зарядить" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="500" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GYt1mOVmX_JPP7CXYPMm-18" value="Отключить зарядное устройство" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="120" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GYt1mOVmX_JPP7CXYPMm-19" value="Подключить зарядное устройство" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="20" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GYt1mOVmX_JPP7CXYPMm-20" value="Выключиться" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="30" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GYt1mOVmX_JPP7CXYPMm-21" value="Проверить наличие функции быстрой зарядки&amp;nbsp; у зарядного устройства" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="210" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="GYt1mOVmX_JPP7CXYPMm-22" value="Зарядится" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="90" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GYt1mOVmX_JPP7CXYPMm-24" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="190" as="sourcePoint" />
+            <mxPoint x="740" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GYt1mOVmX_JPP7CXYPMm-29" value="Include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GYt1mOVmX_JPP7CXYPMm-24">
+          <mxGeometry x="-0.0008" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GYt1mOVmX_JPP7CXYPMm-25" value="Проверить уровень заряда" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="270" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GYt1mOVmX_JPP7CXYPMm-26" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="100" as="sourcePoint" />
+            <mxPoint x="390" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GYt1mOVmX_JPP7CXYPMm-28" value="Include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GYt1mOVmX_JPP7CXYPMm-26">
+          <mxGeometry x="-0.1627" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GYt1mOVmX_JPP7CXYPMm-27" value="Проверить уровень заряда" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="170" width="80" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

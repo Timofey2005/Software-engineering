@@ -1,0 +1,115 @@
+<mxfile host="app.diagrams.net" modified="2023-11-02T11:43:21.548Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="JGfoF1f9IP9PqP_fHA1c" version="22.0.8" type="google">
+  <diagram name="Страница — 1" id="jF6k0_TUNyCWkYtxDeIH">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6TwJ-QCuVsDm2Glz2LAt-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="399" y="60" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6TwJ-QCuVsDm2Glz2LAt-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1" source="6TwJ-QCuVsDm2Glz2LAt-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6TwJ-QCuVsDm2Glz2LAt-3" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="485" y="1050" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6TwJ-QCuVsDm2Glz2LAt-17" value="" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="460" y="700" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6TwJ-QCuVsDm2Glz2LAt-18" value="&amp;lt;100%" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=none;endSize=8;strokeColor=#ff0000;rounded=0;endFill=0;" edge="1" parent="1" source="6TwJ-QCuVsDm2Glz2LAt-17">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="636" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6TwJ-QCuVsDm2Glz2LAt-19" value="100%" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1" source="6TwJ-QCuVsDm2Glz2LAt-17">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="500" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6TwJ-QCuVsDm2Glz2LAt-21" value="Прекаратить зарядку" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="810" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6TwJ-QCuVsDm2Glz2LAt-22" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="499" y="1050" as="targetPoint" />
+            <mxPoint x="499" y="990" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6TwJ-QCuVsDm2Glz2LAt-23" value="Подключить зарядное устройство" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="371" y="150" width="86" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6TwJ-QCuVsDm2Glz2LAt-24" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="413" y="260" as="targetPoint" />
+            <mxPoint x="413" y="200" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6TwJ-QCuVsDm2Glz2LAt-27" value="Зарядиться" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="570" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6TwJ-QCuVsDm2Glz2LAt-28" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="6TwJ-QCuVsDm2Glz2LAt-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="690" as="targetPoint" />
+            <mxPoint x="500" y="630" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6TwJ-QCuVsDm2Glz2LAt-29" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="6TwJ-QCuVsDm2Glz2LAt-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="626" y="590" as="targetPoint" />
+            <mxPoint x="636" y="600" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6TwJ-QCuVsDm2Glz2LAt-30" value="Снять смартфон с&amp;nbsp; зарядки" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6TwJ-QCuVsDm2Glz2LAt-31" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="499" y="930" as="targetPoint" />
+            <mxPoint x="499" y="870" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LusKjdEojZ1Lw1kVsyrY-1" value="" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="371" y="260" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LusKjdEojZ1Lw1kVsyrY-2" value="Есть быстрая зарядка" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1" source="LusKjdEojZ1Lw1kVsyrY-1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="560" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LusKjdEojZ1Lw1kVsyrY-3" value="нет быстрой&lt;br&gt;зарядки" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1" source="LusKjdEojZ1Lw1kVsyrY-1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="411" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LusKjdEojZ1Lw1kVsyrY-4" value="Заряжать с током&lt;br&gt;более 0,5А" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="360" width="106" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LusKjdEojZ1Lw1kVsyrY-5" value="Заряжать с током 0,5А" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="358" y="360" width="106" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LusKjdEojZ1Lw1kVsyrY-6" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="391" y="490" width="200" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="LusKjdEojZ1Lw1kVsyrY-7" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1" source="LusKjdEojZ1Lw1kVsyrY-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="491" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LusKjdEojZ1Lw1kVsyrY-8" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410.5" y="490" as="targetPoint" />
+            <mxPoint x="410.5" y="420" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LusKjdEojZ1Lw1kVsyrY-9" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="562.5" y="490" as="targetPoint" />
+            <mxPoint x="562.5" y="420" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
